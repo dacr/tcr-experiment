@@ -6,4 +6,7 @@ class GreetingsTest extends FlatSpec with Matchers {
     Greetings.sayHello("John") shouldBe "Hello, John."
   }
 
+  it should "use my friend when the name is null" in {
+    Greetings.sayHello(null)
+  }
 }
