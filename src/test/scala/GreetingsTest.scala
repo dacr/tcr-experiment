@@ -14,5 +14,7 @@ class GreetingsTest extends FlatSpec with Matchers {
     Greetings.sayHello("JEREMY") shouldBe "HELLO JEREMY!"
   }
 
-  it should ""
+  it should "be able to manage several people" in {
+    Greetings.sayHello("David", "John") shouldBe "Hello, David and John."
+  }
 }
