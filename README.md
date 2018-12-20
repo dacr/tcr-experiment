@@ -13,3 +13,5 @@ reported by intellij
 
 ![](6.png)
 ![](7.png)
+
+risque de perte d'un test s'en apercevoir

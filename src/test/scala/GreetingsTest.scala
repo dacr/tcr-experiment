@@ -13,4 +13,6 @@ class GreetingsTest extends FlatSpec with Matchers {
   it should "shout when the name is in uppercase" in {
     Greetings.sayHello("JEREMY") shouldBe "HELLO JEREMY!"
   }
+
+  it should ""
 }
