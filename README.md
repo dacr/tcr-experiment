@@ -7,3 +7,6 @@ Too easy with IDEA & strongly typed language
 But it would be better to desactivate auto sync :
 ![](3.png)
 ![](4.png)
+
+![](6.png)
+![](7.png)
