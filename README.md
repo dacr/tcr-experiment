@@ -1,5 +1,8 @@
 # TCR
 
+Playing with TCR during Softwarecraftmanship Meetup Rennes
+
+
 Too easy with IDEA & strongly typed language
 ![](1.png)
 ![](2.png)
